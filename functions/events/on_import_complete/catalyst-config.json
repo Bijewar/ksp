@@ -1,0 +1,9 @@
+{
+  "name": "on_import_complete",
+  "type": "event",
+  "category": "Event Function",
+  "description": "Signal: Stratus import upload -> trigger fir_import Circuit",
+  "stack": "node20",
+  "main": "index.js",
+  "path": "index.js"
+}
